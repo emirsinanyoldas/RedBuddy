@@ -64,11 +64,14 @@
     <Compile Include="Assets\Scripts\MenuManagerMenuScene.cs" />
     <Compile Include="Assets\Scripts\PlManager.cs" />
     <Compile Include="Assets\Scripts\MenuManagerInGame.cs" />
+    <Compile Include="Assets\TigerForge\EasyFileSave\Demo\Demo.cs" />
     <Compile Include="Assets\Scripts\EnemyManager.cs" />
     <Compile Include="Assets\Scripts\CameraSwitch.cs" />
     <Compile Include="Assets\Scripts\PlController.cs" />
     <Compile Include="Assets\Scripts\BltManager.cs" />
+    <Compile Include="Assets\TigerForge\EasyFileSave\EasyFileSaveExtension.cs" />
     <Compile Include="Assets\Scripts\DataManager.cs" />
+    <Compile Include="Assets\TigerForge\EasyFileSave\EasyFileSave.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
